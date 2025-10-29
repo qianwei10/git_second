@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.htlm": "bat",
+        "iostream": "cpp"
+    }
+}
